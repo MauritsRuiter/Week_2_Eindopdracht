@@ -1,0 +1,83 @@
+body {
+    background-color: #03b430;
+    margin: 0px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%)
+}
+
+#kaart1 {
+    font-size: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 270px;
+    margin: 0px;
+}
+
+#kaart2 {
+    font-size: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 270px;
+    margin-left: 150px;
+}
+
+#kaart3 {
+    font-size: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 270px;
+    margin-left: 300px;
+}
+
+#kaart4 {
+    font-size: 40px;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 150px;
+    height: 270px;
+    margin-left: 450px;
+}
+
+#A1 {
+    display: inline;
+    font-size: 40px;
+    float: right;
+    margin-top: 150px;
+}
+
+#A2 {
+    display: inline;
+    font-size: 40px;
+    float: right;
+    margin-top: 145px;
+}
+
+#A3 {
+    display: inline;
+    font-size: 40px;
+    float: right;
+    margin-top: 145px;
+}
+
+#A4 {
+    display: inline;
+    font-size: 40px;
+    float: right;
+    margin-top: 150px;
+}
+
+#B1 {
+    font-size: 40px;
+    float: right;
+    margin-top: 180px;
+    transform: rotate(180deg);
+    margin-right: -28px;
+}
+
+#kaart-afb {
+    margin-top: 50px;
+}
